@@ -1,13 +1,12 @@
 # Web Projects
 
-This repository contains web development projects, including:
-- Simple HTML/CSS/JS websites
-- PHP forms and small web apps
-- Web interfaces for AI projects (AI logic stored separately in ai-projects repository)
+This repository contains multiple web development projects.
 
-Structure:
-- simple-html-sites/
-- php-forms/
-- web-ai-mini-projects/
+## Project1 Web
+- simple-html-sites/: Basic HTML/CSS/JS projects
+- php-forms/: PHP forms and small web applications
+- web-ai-mini-projects/: Web interfaces for AI projects (AI logic stored in ai-projects repository)
 
 Status: Foundation ready, content will be added progressively.
+
+Future projects can be added as new folders: project2-web/, project3-web/, etc.
